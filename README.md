@@ -1,5 +1,7 @@
 # AutoInspect AI — AI-Powered Vehicle Damage Inspection Platform
 
+**Repository:** [github.com/RamKishoreKV/car-damage-ai](https://github.com/RamKishoreKV/car-damage-ai)
+
 AutoInspect AI is a production-style computer vision platform for fleet vehicle inspection. It uses YOLOv11 segmentation to detect vehicle damage, supports multi-view inspection, generates structured reports, stores inspection history, exports PDFs, and includes an optional local AI inspection assistant.
 
 ![AutoInspect AI Hero](image/Single_image.png)
