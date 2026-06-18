@@ -5,12 +5,12 @@ Portfolio screenshots are stored in the repo root **`image/`** folder:
 | File | Description |
 |------|-------------|
 | `homepage.png` | Home / hero — inspection landing page |
+| `Single_image.png` | Single-image inspection with detection results |
 | `multiview.png` | Multi-view combined report |
 | `aiinspecion.png` | AI Inspection Assistant |
 | `fleet.png` | Fleet dashboard |
 | `history.png` | Inspection history and PDF export |
 | `simulator.png` | Robot inspection simulator |
-| `Single_image.png` | Legacy single-inspection capture (optional) |
 
 These are embedded in the root [README.md](../../README.md).
 

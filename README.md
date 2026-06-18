@@ -81,6 +81,7 @@ flowchart LR
 | | |
 |---|---|
 | **Home / Hero** | ![Home](image/homepage.png) |
+| **Single inspection** | ![Single](image/Single_image.png) |
 | **Multi-view report** | ![Multi-view](image/multiview.png) |
 | **AI Inspector** | ![AI Inspector](image/aiinspecion.png) |
 | **Fleet dashboard** | ![Dashboard](image/fleet.png) |
