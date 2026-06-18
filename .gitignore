@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Runtime uploads & outputs (keep folders via .gitkeep)
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/outputs/*
+!backend/outputs/.gitkeep
+backend/evaluation_outputs/*
+!backend/evaluation_outputs/.gitkeep
+!backend/evaluation_outputs/annotated/.gitkeep
+!backend/evaluation_outputs/reports/.gitkeep
+!backend/evaluation_outputs/confusion_matrices/.gitkeep
+
+# Test images (downloaded locally)
+backend/test_images/**/*
+!backend/test_images/**/.gitkeep
+
+# Model weights (large binary — add locally)
+backend/model/*.pt
+backend/model/*.onnx
+backend/fleet.db
+!backend/model/.gitkeep
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build
+frontend/dist/
