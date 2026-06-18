@@ -41,7 +41,7 @@ Complete this checklist before pushing the repository to public GitHub.
 
 - [ ] Add GitHub repo description: _AI-powered vehicle damage inspection for fleets_
 - [ ] Add topics: `yolo`, `computer-vision`, `fastapi`, `react`, `fleet-management`, `pytorch`
-- [ ] Pin README screenshot hero image (`image/Single_image.png`)
+- [ ] Pin README screenshot hero image (`image/homepage.png`)
 - [ ] Add LICENSE file if required by employer or model license
 
 ## Do not

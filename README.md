@@ -4,7 +4,7 @@
 
 AutoInspect AI is a production-style computer vision platform for fleet vehicle inspection. It uses YOLOv11 segmentation to detect vehicle damage, supports multi-view inspection, generates structured reports, stores inspection history, exports PDFs, and includes an optional local AI inspection assistant.
 
-![AutoInspect AI Hero](image/Single_image.png)
+![AutoInspect AI Hero](image/homepage.png)
 
 > Portfolio screenshots live in [`image/`](image/). See [docs/screenshots/README.md](docs/screenshots/README.md) for capture notes.
 
@@ -80,7 +80,7 @@ flowchart LR
 
 | | |
 |---|---|
-| **Single inspection** | ![Single](image/Single_image.png) |
+| **Home / Hero** | ![Home](image/homepage.png) |
 | **Multi-view report** | ![Multi-view](image/multiview.png) |
 | **AI Inspector** | ![AI Inspector](image/aiinspecion.png) |
 | **Fleet dashboard** | ![Dashboard](image/fleet.png) |
