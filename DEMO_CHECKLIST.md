@@ -72,8 +72,3 @@ Use this checklist before a product demo or GitHub release.
 
 ---
 
-**Screenshots:** portfolio PNGs are in [`image/`](image/) (see [docs/screenshots/README.md](docs/screenshots/README.md)).
-
-**Demo video:** add link in [docs/demo/README.md](docs/demo/README.md) when recorded. Script: [docs/demo/DEMO_SCRIPT.md](docs/demo/DEMO_SCRIPT.md).
-
-**GitHub release:** complete [GITHUB_RELEASE_CHECKLIST.md](GITHUB_RELEASE_CHECKLIST.md) before pushing.
