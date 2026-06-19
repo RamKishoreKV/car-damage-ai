@@ -94,11 +94,7 @@ Capture guide: [docs/screenshots/README.md](docs/screenshots/README.md)
 
 ## Demo Video
 
-**Demo video:** Coming soon
-
-Script and recording guide: [docs/demo/README.md](docs/demo/README.md) · [docs/demo/DEMO_SCRIPT.md](docs/demo/DEMO_SCRIPT.md)
-
-Interactive checklist: [DEMO_CHECKLIST.md](DEMO_CHECKLIST.md)
+https://drive.google.com/file/d/1jZT-5EL1T-IJwRFTYC2DJS2Jh5UTCJuw/view?usp=drive_link
 
 ---
 
